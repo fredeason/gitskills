@@ -1,2 +1,1 @@
-master yui
-aaa yui
+hui yui
