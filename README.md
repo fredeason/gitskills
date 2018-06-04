@@ -20,6 +20,9 @@ public class LoginParam {
     private String phone;
     /** 各端登录额外信息.*/
     private LoginExtraParams extraParams;
+    private LoginExtraParams kill;
+    private LoginExtraParams redis;
+    private LoginExtraParams hui;
     
     private ResidentParams residentParams;
 
